@@ -1,4 +1,4 @@
-# hw11-note-taker-express-json 
+## #hw11-note-taker-express-json 
 ![Project license](https://img.shields.io/badge/license-MIT,https://choosealicense.com/licenses/mit/-brightgreen)
 
 <h3>Note taker application that can be used to write, save, and delete notes. Employs an express backend, saves and retrieves data from a JSON file.</h3>
@@ -77,10 +77,9 @@
 <h6>Express Note Taker Application (Screenshot #2: Application start in Terminal)</h6>
 <br />
 
-![Express Note Taker Application (Screenshot #3: Main HTML Notes Page)](./demo_assets/ucla-hw11-express-note-taker-application-main-html-notes-page.jpg?raw=true "Express Note Taker Application (Screenshot #3: Main HTML Notes Page)")
+![Express Note Taker Application (Screenshot #3: Main HTML Notes Page)](./demo_assets/ucla-hw11-express-note-taker-application-main-html-notes-page.png?raw=true "Express Note Taker Application (Screenshot #3: Main HTML Notes Page)")
 <h6>Express Note Taker Application (Screenshot #3: Main HTML Notes Page)</h6>
 <br />
-
 
 ## Video
 ![Express Note Taker Application Demo (MP4)](./demo_assets/ucla-hw11-express-note-taker-application-demo.mp4 "Express Note Taker Application Demo (MP4)")
