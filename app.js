@@ -23,7 +23,6 @@ app.post("/api/notes", (req, res) => {
   let noteParser = JSON.parse(noteContent);     // noteContent is being JSON parsed and transferred to noteParser.
   noteParser.push(req.body);     // newNote (via req.body) pushed to newParser array.
   fs.writeFileSync('./db/db.json',JSON.stringify(noteParser), (err, data) =>  { if (err) throw err; res.json(noteParser) });   // Writes to db.json, stringifies noteParser array.
-//  fs.writeFileSync('./db/db.json',JSON.stringify(notes));
   res.sendFile(path.join(__dirname,'public/notes.html'));     // forwards newNote content to notes.html for on-screen display.
 });
 
@@ -31,7 +30,7 @@ app.post("/api/notes", (req, res) => {
 app.delete("/api/notes/:id", (req, res) => {
   let noteContent = fs.readFileSync('./db/db.json');  // Syncs with db.json for content retrieval.
   let noteParser = JSON.parse(noteContent);// noteContent is being JSON parsed and transferred to noteParser.
-  const notesSaved = noteParser.filter(n => parseInt(n.id) !== parseInt(req.params.id)); // noteParser array is being parsedInt, returns start position, assigned to notesSaved. (C)
+  const notesSaved = noteParser.filter(n => parseInt(n.id) !== parseInt(req.params.id)); // noteParser array is being parsedInt, returns start position, assigned to notesSaved.
   const notesIndex = noteParser.indexOf(notesSaved);    // notesSaved is being indexedOf so that ID position in the array is being returned, then transferred to notesIndex.
   noteParser.splice(notesIndex);    // notesIndex array is being updated via the splice command, an updated noteParser array is being returned (with the deleted element now gone).
   fs.writeFileSync(__dirname + "/db/db.json", JSON.stringify(noteParser), (err, data) => { if (err) throw err; res.json(noteParser) }); // noteParser is stringified and written to db.json.
@@ -39,8 +38,8 @@ app.delete("/api/notes/:id", (req, res) => {
 });
 
 // HTML Routes
-app.get("/notes", (req, res) => res.sendFile(__dirname + "/public/notes.html"));  // [GET /notes] - Answers with notes.html
-app.get("*", (req, res) => res.sendFile(__dirname + "/public/index.html")); // [GET *] -  Answers with index.html 
+app.get("/notes", (req, res) => res.sendFile(__dirname + "/public/notes.html"));  // [GET /notes] - Returns the notes.html file.
+app.get("*", (req, res) => res.sendFile(__dirname + "/public/index.html")); // [GET *] -  Returns the index.html file. 
 
 // Runs server application, port is open for communication.
 app.listen(PORT, function() { console.log("App listening on PORT " + PORT); });
