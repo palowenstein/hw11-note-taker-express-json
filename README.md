@@ -17,7 +17,7 @@
   * [Contact](#Contact)
 
 ## GIF
-![Express Note Taker Application (GIF)](./demo_assets/ucla-hw10-cli-employee-summary-template-engine-demo.gif "Express Note Taker Application (GIF)")
+![Express Note Taker Application (GIF)](./demo_assets/ucla-hw11-express-note-taker-application-demo.gif "Express Note Taker Application (GIF)")
 
 ## Overview
 <ul>
@@ -83,8 +83,8 @@
 
 
 ## Video
-![Express Note Taker Application - Overall Application Execution (MP4)](./demo_assets/ucla-hw11-express-note-taker-application-overall-application-execution.mp4 "Express Note Taker Application - Overall Application Execution (MP4)")
-<h6>Express Note Taker Application - Overall Application Execution (MP4)</h6>
+![Express Note Taker Application - Overall Application Demo (MP4)](./demo_assets/ucla-hw11-express-note-taker-application-demo.mp4 "Express Note Taker Application - Overall Application Demo (MP4)")
+<h6>Express Note Taker Application - Overall Application Demo (MP4)</h6>
 <br />
 
 ## References
