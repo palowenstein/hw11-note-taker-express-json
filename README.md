@@ -44,7 +44,7 @@
 <ul>
 <li>A .gitignore file is present at the root level to prevent the upload of node_modules, .DS_Store.</li>
 <li>A Procfile is present at the root level to indicate to Heroku how to start the application.</li>
-<li>A manifest.webmanifest file is also present as the application is executed in Heroku as a PWA (Progressive Web Application).
+<li>A manifest.webmanifest file is also present as the application is executed in Heroku as a PWA (Progressive Web Application).</li>
 <li>The included package.json includes an install link to all the required dependencies (Express) needed for the program to run. All the user needs to do is run 'npm install' in Terminal while in the root folder (see Instructions).</li>
 </ul>
 
