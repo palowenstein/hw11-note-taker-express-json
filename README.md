@@ -18,7 +18,7 @@
   * [Contact](#Contact)
 
 ## GIF
-![Express Note Taker Application Demo (GIF)](./demo_assets/ucla-hw11-express-note-taker-application-demo.gif "Express Note Taker Application Demo (GIF)")
+![Express Note Taker Application Demo (GIF)](./demo_assets/11-express-note-taker-application-demo.gif "Express Note Taker Application Demo (GIF)")
 
 ## Overview
 <ul>
@@ -70,20 +70,20 @@
 <p><i>Refer to app.js (javascript file) for code dissection.</i></p>
 
 ## Screenshots
-![Express Note Taker Application (Screenshot #1: npm install/package.json)](./demo_assets/ucla-hw11-express-note-taker-application-npm-install-package-json.png?raw=true "Express Note Taker Application (Screenshot #1: npm install/package.json)")
+![Express Note Taker Application (Screenshot #1: npm install/package.json)](./demo_assets/11-express-note-taker-application-npm-install-package-json.png?raw=true "Express Note Taker Application (Screenshot #1: npm install/package.json)")
 <h6>Express Note Taker Application (Screenshot #1: npm install/package.json)</h6>
 <br />
 
-![Express Note Taker Application (Screenshot #2: Application start in Terminal)](./demo_assets/ucla-hw11-express-note-taker-application-terminal-start.png?raw=true "Express Note Taker Application (Screenshot #2: Application start in Terminal)")
+![Express Note Taker Application (Screenshot #2: Application start in Terminal)](./demo_assets/11-express-note-taker-application-terminal-start.png?raw=true "Express Note Taker Application (Screenshot #2: Application start in Terminal)")
 <h6>Express Note Taker Application (Screenshot #2: Application start in Terminal)</h6>
 <br />
 
-![Express Note Taker Application (Screenshot #3: Main HTML Notes Page)](./demo_assets/ucla-hw11-express-note-taker-application-main-html-notes-page.png?raw=true "Express Note Taker Application (Screenshot #3: Main HTML Notes Page)")
+![Express Note Taker Application (Screenshot #3: Main HTML Notes Page)](./demo_assets/11-express-note-taker-application-main-html-notes-page.png?raw=true "Express Note Taker Application (Screenshot #3: Main HTML Notes Page)")
 <h6>Express Note Taker Application (Screenshot #3: Main HTML Notes Page)</h6>
 <br />
 
 ## Video
-![Express Note Taker Application Demo (MP4)](./demo_assets/ucla-hw11-express-note-taker-application-demo.mp4 "Express Note Taker Application Demo (MP4)")
+![Express Note Taker Application Demo (MP4)](./demo_assets/11-express-note-taker-application-demo.mp4 "Express Note Taker Application Demo (MP4)")
 <h6>Express Note Taker Application Demo (MP4)</h6>
 <br />
 
@@ -120,7 +120,7 @@
 
  ## Contact
 <p>
-<a href="http://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
+<a href="https://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
 &nbsp;|&nbsp;
-<a href="mailto:soundtrackspecialist@gmail.com" title="Courriel">Send me a 'courriel'</a>
+<a href="mailto:coder@pierreandrelowenstein.com" title="Courriel">Send me a 'courriel'</a>
 </p>
