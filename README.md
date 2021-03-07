@@ -1,9 +1,9 @@
-## #hw11-note-taker-express-json 
+## #11-note-taker-express-json 
 ![Project license](https://img.shields.io/badge/license-MIT,https://choosealicense.com/licenses/mit/-brightgreen)
 
 <h3>Note taker application that can be used to write, save, and delete notes. Employs an express backend, saves and retrieves data from a JSON file.</h3>
-<p>Github Repository Page: https://github.com/palowenstein/hw11-note-taker-express-json</p>
-<p>Heroku Deployment Page: https://hw11-note-taker-express-json.herokuapp.com/</p>
+<p>Github Repository Page: https://github.com/palowenstein/note-taker-express-json</p>
+<p>Heroku Deployment Page: https://note-taker-express-json.herokuapp.com/</p>
 
 # Table of Contents
   * [GIF](#Gif)
@@ -51,7 +51,7 @@
 
 ## Instructions
 <ul>
-<li>In Terminal, locate the application folder and enter into it via the 'cd' command: cd hw11-note-taker-express-json</li>
+<li>In Terminal, locate the application folder and enter into it via the 'cd' command: cd note-taker-express-json</li>
 <li>Run the 'npm install' command to install the express module from the package.json (screenshot #1).</li>
 <li>Run the 'node app.js' command to start the application in Terminal (GIF/MP4).</li>
 <li>Open a Browser window at the following location: http://localhost:4000/</li>
