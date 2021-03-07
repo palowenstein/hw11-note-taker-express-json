@@ -120,7 +120,7 @@
 
  ## Contact
 <p>
-<a href="http://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
+<a href="https://pierreandrelowenstein.com" title="[www] Pierre Andr&eacute; Lowenstein" target="_blank">[www] pierreandrelowenstein.com</a>
 &nbsp;|&nbsp;
 <a href="mailto:soundtrackspecialist@gmail.com" title="Courriel">Send me a 'courriel'</a>
 </p>
